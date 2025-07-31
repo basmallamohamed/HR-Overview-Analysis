@@ -22,4 +22,4 @@ The dataset "Cleaned_HR_Data_Analysis (2).csv" provides a comprehensive overview
 5. Create tailored plans for Zone A and Zone C to improve engagement and support.
 
 ## Dashboard Image
-[Dashboard Picture](Visuals/HR_Analysis.jpg)  
+![Dashboard Picture](Visuals/HR_Analysis.jpg)  
